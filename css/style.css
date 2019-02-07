@@ -189,7 +189,7 @@ span {
   background: url(../img/bg2.png) center bottom no-repeat;
   background-size: 100%;
   position: relative;
-  margin-top: 160px;
+  
 }
 
 @media (min-width: 1025px) {
