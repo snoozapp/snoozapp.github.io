@@ -221,7 +221,9 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Quicksand", sans-serif;
-  color: #71c55d;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 @media (max-width: 768px) {
