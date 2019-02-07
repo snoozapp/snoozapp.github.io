@@ -42,10 +42,6 @@ a {
   text-decoration: none;
 }
 
-ul {
-  letter-spacing: 1px;
-}
-
 li {
   color: #626262;
   font-size: 13px;
@@ -661,7 +657,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #about-us .about-content ul li {
   line-height: 10px;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   font-size: 12px;
 }
 
