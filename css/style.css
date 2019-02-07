@@ -221,7 +221,7 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Quicksand", sans-serif;
-  background: -webkit-linear-gradient(#eee, #333);
+  background: -webkit-linear-gradient(#00edc9, #00a9ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
