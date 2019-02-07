@@ -660,7 +660,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #about-us .about-content ul li {
-  line-height: 36px;
+  line-height: 10px;
+  letter-spacing: 3px;
 }
 
 #about-us .about-content ul li .fa {
