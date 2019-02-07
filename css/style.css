@@ -224,7 +224,7 @@ span {
   color: #333;
 }
 
-#gradientheading {
+#hero h2 {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
@@ -242,7 +242,7 @@ span {
   }
 }
 
-#hero h2 {
+#hero h3 {
   color: #000;
   margin-bottom: 20px;
   font-size: 20px;
