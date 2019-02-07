@@ -218,12 +218,17 @@ span {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 200;
   line-height: 56px;
   font-family: "Quicksand", sans-serif;
-  background: -webkit-linear-gradient(#00edc9, #00a9ff);
+  color: #333;
+}
+
+#gradientheading {
+  background: -webkit-linear-gradient(to right, #00edc9, #00a9ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-weight: 700;
 }
 
 @media (max-width: 768px) {
@@ -234,19 +239,11 @@ span {
 }
 
 #hero h2 {
-  color: #333;
-  margin-bottom: 30px;
-  font-size: 40px;
-  font-family: "Quicksand", sans-serif;
-  font-weight: 300;
-}
-
-#hero h3 {
   color: #000;
   margin-bottom: 20px;
   font-size: 20px;
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 @media (max-width: 768px) {
